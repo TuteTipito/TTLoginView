@@ -9,8 +9,8 @@ Pod::Spec.new do |s|
   s.platform	  = :ios
   s.ios.deployment_target = "12.1"
   s.requires_arc  = true
-  s.source_files  = "TTLoginView/*.{swift}"
-  s.resources     = "TTLoginView/**/Assets.xcassets"
+  s.source_files  = "TTLoginView/**/*"
+  s.resources     = "TTLoginView/**/*"
   s.framework     = "UIKit"
   s.swift_version = '4.2'
 end
