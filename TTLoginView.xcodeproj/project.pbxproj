@@ -7,10 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0078568821B0A728000B154D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00A050F921B078A0006E88BF /* Assets.xcassets */; };
 		00A050F321B0789C006E88BF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00A050F221B0789C006E88BF /* AppDelegate.swift */; };
 		00A050F521B0789C006E88BF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00A050F421B0789C006E88BF /* ViewController.swift */; };
 		00A050F821B0789C006E88BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00A050F621B0789C006E88BF /* Main.storyboard */; };
-		00A050FA21B078A0006E88BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00A050F921B078A0006E88BF /* Assets.xcassets */; };
 		00A050FD21B078A0006E88BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00A050FB21B078A0006E88BF /* LaunchScreen.storyboard */; };
 		00A0510821B07994006E88BF /* TTLoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00A0510621B07994006E88BF /* TTLoginViewController.swift */; };
 		00A0510921B07994006E88BF /* TTLoginViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 00A0510721B07994006E88BF /* TTLoginViewController.xib */; };
@@ -132,8 +132,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				00A050FD21B078A0006E88BF /* LaunchScreen.storyboard in Resources */,
-				00A050FA21B078A0006E88BF /* Assets.xcassets in Resources */,
 				00A0510921B07994006E88BF /* TTLoginViewController.xib in Resources */,
+				0078568821B0A728000B154D /* Assets.xcassets in Resources */,
 				00A050F821B0789C006E88BF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
