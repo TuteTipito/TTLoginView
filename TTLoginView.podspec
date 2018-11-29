@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version       = "0.0.1"
   s.summary       = "Un pequeño ejemplo de un formulario Login."
   s.homepage      = "https://github.com/TuteTipito/TTLoginView"
-  s.license       = "MIT"
+  s.license       = { :type => "MIT", :file => "/Users/matiasspinelli/Proyects/TTLoginView/LICENSE" }
   s.author        = { "Matias Spinelli" => "matias.spinelli@gmail.com" }
   s.source        = { :git => "https://github.com/TuteTipito/TTLoginView.git", :tag => "#{s.version}" }
   s.platform	  = :ios
@@ -11,5 +11,6 @@ Pod::Spec.new do |s|
   s.requires_arc  = true
   s.source_files  = "TTLoginView/**/*.{swift}"
   s.resources     = "TTLoginView/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
-  s.swift_version = "4.2" 
+  s.framework     = "UIKit"
+  s.swift_version = '4.2'
 end
