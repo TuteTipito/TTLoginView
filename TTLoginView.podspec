@@ -1,6 +1,6 @@
-∑Pod::Spec.new do |s|
+Pod::Spec.new do |s|
   s.name          = "TTLoginView"
-  s.version       = "0.1.1"
+  s.version       = "0.1.2"
   s.summary       = "Un pequeño ejemplo de un formulario Login."
   s.homepage      = "https://github.com/TuteTipito/TTLoginView"
   s.license       = { :type => "MIT", :file => "/Users/matiasspinelli/Proyects/TTLoginView/LICENSE" }
