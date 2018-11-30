@@ -15,7 +15,8 @@ open class TTLoginController: NSObject {
     var loginViewController : TTLoginViewController?
     
     private override init() {
-        loginViewController = TTLoginViewController(nibName: "TTLoginViewController", bundle: nil)
+        let bundle = Bundle(for: TTLoginViewController.self)
+        loginViewController = TTLoginViewController(nibName: "TTLoginViewController", bundle: bundle)
     }
 
     open func showLoginView(in viewController : UIViewController) {
