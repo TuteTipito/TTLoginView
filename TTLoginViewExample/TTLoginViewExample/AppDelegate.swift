@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  TTLoginView
+//  TTLoginViewExample
 //
 //  Created by Matías Spinelli on 29/11/2018.
 //  Copyright © 2018 Matías Spinelli. All rights reserved.

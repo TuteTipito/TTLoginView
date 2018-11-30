@@ -7,31 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0078568821B0A728000B154D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00A050F921B078A0006E88BF /* Assets.xcassets */; };
-		00A050F321B0789C006E88BF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00A050F221B0789C006E88BF /* AppDelegate.swift */; };
-		00A050F521B0789C006E88BF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00A050F421B0789C006E88BF /* ViewController.swift */; };
-		00A050F821B0789C006E88BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00A050F621B0789C006E88BF /* Main.storyboard */; };
-		00A050FD21B078A0006E88BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00A050FB21B078A0006E88BF /* LaunchScreen.storyboard */; };
-		00A0510821B07994006E88BF /* TTLoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00A0510621B07994006E88BF /* TTLoginViewController.swift */; };
-		00A0510921B07994006E88BF /* TTLoginViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 00A0510721B07994006E88BF /* TTLoginViewController.xib */; };
-		00A0510B21B07DCE006E88BF /* TTLoginController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00A0510A21B07DCE006E88BF /* TTLoginController.swift */; };
+		0062770E21B0D36800209117 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0062770D21B0D36800209117 /* AppDelegate.swift */; };
+		0062771021B0D36800209117 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0062770F21B0D36800209117 /* ViewController.swift */; };
+		0062771321B0D36800209117 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0062771121B0D36800209117 /* Main.storyboard */; };
+		0062771521B0D36E00209117 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0062771421B0D36E00209117 /* Assets.xcassets */; };
+		0062771821B0D36E00209117 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0062771621B0D36E00209117 /* LaunchScreen.storyboard */; };
+		0062772321B0D38200209117 /* TTLoginController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0062772021B0D38200209117 /* TTLoginController.swift */; };
+		0062772421B0D38200209117 /* TTLoginViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0062772121B0D38200209117 /* TTLoginViewController.xib */; };
+		0062772521B0D38200209117 /* TTLoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0062772221B0D38200209117 /* TTLoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		00A050EF21B0789C006E88BF /* TTLoginView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TTLoginView.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		00A050F221B0789C006E88BF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		00A050F421B0789C006E88BF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		00A050F721B0789C006E88BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		00A050F921B078A0006E88BF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		00A050FC21B078A0006E88BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		00A050FE21B078A0006E88BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00A0510621B07994006E88BF /* TTLoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TTLoginViewController.swift; sourceTree = "<group>"; };
-		00A0510721B07994006E88BF /* TTLoginViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TTLoginViewController.xib; sourceTree = "<group>"; };
-		00A0510A21B07DCE006E88BF /* TTLoginController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TTLoginController.swift; sourceTree = "<group>"; };
+		0062770A21B0D36800209117 /* TTLoginViewExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TTLoginViewExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0062770D21B0D36800209117 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		0062770F21B0D36800209117 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		0062771221B0D36800209117 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		0062771421B0D36E00209117 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		0062771721B0D36E00209117 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		0062771921B0D36E00209117 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0062772021B0D38200209117 /* TTLoginController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TTLoginController.swift; sourceTree = "<group>"; };
+		0062772121B0D38200209117 /* TTLoginViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TTLoginViewController.xib; sourceTree = "<group>"; };
+		0062772221B0D38200209117 /* TTLoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TTLoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		00A050EC21B0789C006E88BF /* Frameworks */ = {
+		0062770721B0D36800209117 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,74 +41,83 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00A050E621B0789C006E88BF = {
+		0062770121B0D36800209117 = {
 			isa = PBXGroup;
 			children = (
-				00A050F121B0789C006E88BF /* TTLoginView */,
-				00A050F021B0789C006E88BF /* Products */,
+				0062770C21B0D36800209117 /* TTLoginViewExample */,
+				0062770B21B0D36800209117 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		00A050F021B0789C006E88BF /* Products */ = {
+		0062770B21B0D36800209117 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				00A050EF21B0789C006E88BF /* TTLoginView.app */,
+				0062770A21B0D36800209117 /* TTLoginViewExample.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		00A050F121B0789C006E88BF /* TTLoginView */ = {
+		0062770C21B0D36800209117 /* TTLoginViewExample */ = {
 			isa = PBXGroup;
 			children = (
-				00A050F221B0789C006E88BF /* AppDelegate.swift */,
-				00A050F421B0789C006E88BF /* ViewController.swift */,
-				00A050F621B0789C006E88BF /* Main.storyboard */,
-				00A0510621B07994006E88BF /* TTLoginViewController.swift */,
-				00A0510721B07994006E88BF /* TTLoginViewController.xib */,
-				00A0510A21B07DCE006E88BF /* TTLoginController.swift */,
-				00A050F921B078A0006E88BF /* Assets.xcassets */,
-				00A050FB21B078A0006E88BF /* LaunchScreen.storyboard */,
-				00A050FE21B078A0006E88BF /* Info.plist */,
+				0062770D21B0D36800209117 /* AppDelegate.swift */,
+				0062770F21B0D36800209117 /* ViewController.swift */,
+				0062771121B0D36800209117 /* Main.storyboard */,
+				0062771421B0D36E00209117 /* Assets.xcassets */,
+				0062771621B0D36E00209117 /* LaunchScreen.storyboard */,
+				0062771921B0D36E00209117 /* Info.plist */,
+				0062771F21B0D38200209117 /* TTLoginView */,
 			);
-			path = TTLoginView;
+			path = TTLoginViewExample;
+			sourceTree = "<group>";
+		};
+		0062771F21B0D38200209117 /* TTLoginView */ = {
+			isa = PBXGroup;
+			children = (
+				0062772021B0D38200209117 /* TTLoginController.swift */,
+				0062772121B0D38200209117 /* TTLoginViewController.xib */,
+				0062772221B0D38200209117 /* TTLoginViewController.swift */,
+			);
+			name = TTLoginView;
+			path = ../../TTLoginView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00A050EE21B0789C006E88BF /* TTLoginView */ = {
+		0062770921B0D36800209117 /* TTLoginViewExample */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00A0510121B078A0006E88BF /* Build configuration list for PBXNativeTarget "TTLoginView" */;
+			buildConfigurationList = 0062771C21B0D36E00209117 /* Build configuration list for PBXNativeTarget "TTLoginViewExample" */;
 			buildPhases = (
-				00A050EB21B0789C006E88BF /* Sources */,
-				00A050EC21B0789C006E88BF /* Frameworks */,
-				00A050ED21B0789C006E88BF /* Resources */,
+				0062770621B0D36800209117 /* Sources */,
+				0062770721B0D36800209117 /* Frameworks */,
+				0062770821B0D36800209117 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = TTLoginView;
-			productName = TTLoginView;
-			productReference = 00A050EF21B0789C006E88BF /* TTLoginView.app */;
+			name = TTLoginViewExample;
+			productName = TTLoginViewExample;
+			productReference = 0062770A21B0D36800209117 /* TTLoginViewExample.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		00A050E721B0789C006E88BF /* Project object */ = {
+		0062770221B0D36800209117 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1010;
 				LastUpgradeCheck = 1010;
 				ORGANIZATIONNAME = "Matías Spinelli";
 				TargetAttributes = {
-					00A050EE21B0789C006E88BF = {
+					0062770921B0D36800209117 = {
 						CreatedOnToolsVersion = 10.1;
 					};
 				};
 			};
-			buildConfigurationList = 00A050EA21B0789C006E88BF /* Build configuration list for PBXProject "TTLoginView" */;
+			buildConfigurationList = 0062770521B0D36800209117 /* Build configuration list for PBXProject "TTLoginViewExample" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -116,57 +125,57 @@
 				en,
 				Base,
 			);
-			mainGroup = 00A050E621B0789C006E88BF;
-			productRefGroup = 00A050F021B0789C006E88BF /* Products */;
+			mainGroup = 0062770121B0D36800209117;
+			productRefGroup = 0062770B21B0D36800209117 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				00A050EE21B0789C006E88BF /* TTLoginView */,
+				0062770921B0D36800209117 /* TTLoginViewExample */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		00A050ED21B0789C006E88BF /* Resources */ = {
+		0062770821B0D36800209117 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00A050FD21B078A0006E88BF /* LaunchScreen.storyboard in Resources */,
-				00A0510921B07994006E88BF /* TTLoginViewController.xib in Resources */,
-				0078568821B0A728000B154D /* Assets.xcassets in Resources */,
-				00A050F821B0789C006E88BF /* Main.storyboard in Resources */,
+				0062771821B0D36E00209117 /* LaunchScreen.storyboard in Resources */,
+				0062771521B0D36E00209117 /* Assets.xcassets in Resources */,
+				0062772421B0D38200209117 /* TTLoginViewController.xib in Resources */,
+				0062771321B0D36800209117 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		00A050EB21B0789C006E88BF /* Sources */ = {
+		0062770621B0D36800209117 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00A0510821B07994006E88BF /* TTLoginViewController.swift in Sources */,
-				00A050F521B0789C006E88BF /* ViewController.swift in Sources */,
-				00A050F321B0789C006E88BF /* AppDelegate.swift in Sources */,
-				00A0510B21B07DCE006E88BF /* TTLoginController.swift in Sources */,
+				0062771021B0D36800209117 /* ViewController.swift in Sources */,
+				0062770E21B0D36800209117 /* AppDelegate.swift in Sources */,
+				0062772521B0D38200209117 /* TTLoginViewController.swift in Sources */,
+				0062772321B0D38200209117 /* TTLoginController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		00A050F621B0789C006E88BF /* Main.storyboard */ = {
+		0062771121B0D36800209117 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				00A050F721B0789C006E88BF /* Base */,
+				0062771221B0D36800209117 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		00A050FB21B078A0006E88BF /* LaunchScreen.storyboard */ = {
+		0062771621B0D36E00209117 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				00A050FC21B078A0006E88BF /* Base */,
+				0062771721B0D36E00209117 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -174,7 +183,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		00A050FF21B078A0006E88BF /* Debug */ = {
+		0062771A21B0D36E00209117 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -235,7 +244,7 @@
 			};
 			name = Debug;
 		};
-		00A0510021B078A0006E88BF /* Release */ = {
+		0062771B21B0D36E00209117 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -290,36 +299,38 @@
 			};
 			name = Release;
 		};
-		00A0510221B078A0006E88BF /* Debug */ = {
+		0062771D21B0D36E00209117 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4PK8BH6D6G;
-				INFOPLIST_FILE = TTLoginView/Info.plist;
+				INFOPLIST_FILE = TTLoginViewExample/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.matiasspinelli.TTLoginView;
+				PRODUCT_BUNDLE_IDENTIFIER = com.matiasspinelli.TTLoginViewExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		00A0510321B078A0006E88BF /* Release */ = {
+		0062771E21B0D36E00209117 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4PK8BH6D6G;
-				INFOPLIST_FILE = TTLoginView/Info.plist;
+				INFOPLIST_FILE = TTLoginViewExample/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.matiasspinelli.TTLoginView;
+				PRODUCT_BUNDLE_IDENTIFIER = com.matiasspinelli.TTLoginViewExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -329,25 +340,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00A050EA21B0789C006E88BF /* Build configuration list for PBXProject "TTLoginView" */ = {
+		0062770521B0D36800209117 /* Build configuration list for PBXProject "TTLoginViewExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				00A050FF21B078A0006E88BF /* Debug */,
-				00A0510021B078A0006E88BF /* Release */,
+				0062771A21B0D36E00209117 /* Debug */,
+				0062771B21B0D36E00209117 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		00A0510121B078A0006E88BF /* Build configuration list for PBXNativeTarget "TTLoginView" */ = {
+		0062771C21B0D36E00209117 /* Build configuration list for PBXNativeTarget "TTLoginViewExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				00A0510221B078A0006E88BF /* Debug */,
-				00A0510321B078A0006E88BF /* Release */,
+				0062771D21B0D36E00209117 /* Debug */,
+				0062771E21B0D36E00209117 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 00A050E721B0789C006E88BF /* Project object */;
+	rootObject = 0062770221B0D36800209117 /* Project object */;
 }
