@@ -8,9 +8,9 @@
 
 import UIKit
 
-class TTLoginController: NSObject {
+open class TTLoginController: NSObject {
 
-    static let sharedInstance = TTLoginController()
+    public static let sharedInstance = TTLoginController()
     
     var loginViewController : TTLoginViewController?
     
@@ -18,7 +18,7 @@ class TTLoginController: NSObject {
         loginViewController = TTLoginViewController(nibName: "TTLoginViewController", bundle: nil)
     }
 
-    func showLoginView(in viewController : UIViewController) {
+    open func showLoginView(in viewController : UIViewController) {
         
         loginViewController?.delegate = viewController as? TTLoginProtocol
         
@@ -26,7 +26,7 @@ class TTLoginController: NSObject {
         viewController.present(navigationViewController, animated: true, completion: nil)
     }
     
-    func configureBackgroundColor(color : UIColor) {
+    open func configureBackgroundColor(color : UIColor) {
         loginViewController?.view.backgroundColor = color
     }
     
