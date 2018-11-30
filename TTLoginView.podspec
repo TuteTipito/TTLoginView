@@ -1,4 +1,4 @@
-Pod::Spec.new do |s|
+∑Pod::Spec.new do |s|
   s.name          = "TTLoginView"
   s.version       = "0.1.1"
   s.summary       = "Un pequeño ejemplo de un formulario Login."
